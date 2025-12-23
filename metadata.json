@@ -1,0 +1,7 @@
+{
+  "name": "LionReader",
+  "description": "Uma biblioteca pessoal elegante para gerenciar sua leitura, com foco em experiência Kindle para PDFs e organização inteligente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
